@@ -32,6 +32,7 @@ Notes on optimizer: Adam NaN's. SGD is used instead. TBD!
 DataSet  
 -------  
 MVTec's Anomaly Detect's 'Hazelnut' dataset is use. Finding the orientation of a round object thought to challenge this algorithm.  
+Ground truth is by manually annotating images.  
 
 
 
